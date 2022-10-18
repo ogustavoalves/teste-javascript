@@ -1,3 +1,3 @@
-# teste com javascript
+# Testando link de arquivos JS externos com arquivos HTML
 
-<h4>página web simples com um código javascript interno para fins de teste</h4>
+<h4>3 páginas web simples com funções em javascript.</h4>
